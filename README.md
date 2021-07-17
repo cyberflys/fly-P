@@ -1,6 +1,6 @@
 # fleon P
 
-fleon P is first project by my startup named: "fleon".
+<br>fleon P is first project by my startup named: "fleon".:</br>
 P in the name stands for Plug.
 That is because fleon P is smart plug system, designed to work via WiFi.
 It uses SSH protocol via JSch to connect to designated server address and activate/deactivate relay.
