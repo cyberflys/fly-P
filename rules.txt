@@ -1,0 +1,8 @@
+sudo ufw allow ssh
+
+interface 
+static ip_address=192.168.1.36
+static routers=192.168.0.0
+
+login: pi
+password: geohot123
