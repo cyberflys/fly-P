@@ -8,7 +8,7 @@ It uses SSH protocol via JSch to connect to designated server address and activa
 Client side: Android app made in Java
 Server side: C++ programs used for faster execution of activating/deactivating relays.
 
-diff```
+```diff
 
 fleon P system will contain:
 
