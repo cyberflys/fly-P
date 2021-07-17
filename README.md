@@ -13,11 +13,11 @@
 
 fleon P system will contain:
 
-!1.Raspberry Pi 3
-2.RPi build relay
-3.Smart relay connections
-4.RPi rules
-5.Android client side app.
+-Raspberry Pi 3
+-RPi build relay
++Smart relay connections
++RPi rules
++Android client side app.
 
 
 
