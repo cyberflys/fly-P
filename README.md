@@ -1,4 +1,4 @@
-# fleon-P
+# fleon P
 
 fleon P is first project by my startup named: "fleon".
 P in the name stands for Plug.
