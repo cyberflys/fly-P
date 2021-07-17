@@ -8,6 +8,7 @@
 <br>Client side: Android app made in Java</br>
 <br>Server side: C++ programs used for faster execution of activating/deactivating relays.</br>
 
+<br> PLAN FOR FUTURE IS TO : SELL fleon P PLUGS ALL OVER SERBIA! </br>
 ```diff
 
 fleon P system will contain:
