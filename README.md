@@ -1,12 +1,12 @@
 # fleon P
 
-<br>fleon P is first project by my startup named: "fleon".:</br>
-P in the name stands for Plug.
-That is because fleon P is smart plug system, designed to work via WiFi.
-It uses SSH protocol via JSch to connect to designated server address and activate/deactivate relay.
+<br>fleon P is first project by my startup named: "fleon".</br>
+<br>P in the name stands for Plug.:</br>
+<br>That is because fleon P is smart plug system, designed to work via WiFi.:</br>
+<br>It uses SSH protocol via JSch to connect to designated server address and activate/deactivate relay.</br>
 
-Client side: Android app made in Java
-Server side: C++ programs used for faster execution of activating/deactivating relays.
+<br>Client side: Android app made in Java</br>
+<br>Server side: C++ programs used for faster execution of activating/deactivating relays.</br>
 
 ```diff
 
