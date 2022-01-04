@@ -2,7 +2,7 @@
 
 <br>fly-P is first project by my startup named: "cyfly".</br>
 <br>P in the name stands for Plug.</br>
-<br>That is because fleon P is smart plug system, designed to work via WiFi.:</br>
+<br>That is because fly-P is smart plug system, designed to work via WiFi.:</br>
 <br>It uses SSH protocol via JSch to connect to designated server address and activate/deactivate relay.</br>
 
 <br>Client side: Android app made in Java</br>
